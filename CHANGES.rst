@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.5 (unreleased)
-----------------
+1.5rc1 (2017-01-16)
+-------------------
 
 - Geosearch bounds: Patched ``L.GeoSearch.Provider.Esri`` to also return the
   location bounds. Added ``bounds`` field to ``IGeolocation``. Bounds are
